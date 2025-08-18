@@ -1,3 +1,5 @@
+![Alt text](myphoto.png)
+
 # AI for Movie Lovers 🍿
 This is an interactive Q&A application that allows you to “chat” with movie scripts and subtitles. The app uses a Retrieval-Augmented Generation (RAG) pipeline to understand the content of scripts and subtitles, then answer your questions in natural language.
 
